@@ -1,3 +1,15 @@
+![createpost](https://github.com/uralrdybread/CrustChronicles/assets/48900828/9572457d-bc3f-41b4-b536-713cd33beaf2)
+![homepage](https://github.com/uralrdybread/CrustChronicles/assets/48900828/23d5b450-6f02-465e-ac4a-937e4c327199)
+![loggedin](https://github.com/uralrdybread/CrustChronicles/assets/48900828/2c35da51-ba40-4b32-9f04-2834a75f36fc)
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
